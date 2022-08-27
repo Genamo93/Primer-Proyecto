@@ -95,3 +95,7 @@ flex-direction: column;}
 .Especiales2{margin-left: 100px;
 display: flex;
 flex-direction: column;}
+.pie{background-color: black;
+color: white;
+height: 300px;
+width: 100%;}
