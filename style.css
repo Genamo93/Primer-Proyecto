@@ -98,4 +98,10 @@ flex-direction: column;}
 .pie{background-color: black;
 color: white;
 height: 300px;
-width: 100%;}
+width: 100%;
+padding: 0%}
+.usuarios{
+    margin-left: 20px;
+    font-family: Arial;
+    font-size: 20px;
+}
